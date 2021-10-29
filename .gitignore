@@ -1,6 +1,5 @@
 node_modules
 package-lock.json
 build
-*.mov
-*.mp4
+clips
 sneakrypt.zip
