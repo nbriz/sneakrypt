@@ -1,0 +1,17 @@
+{
+  "name": "sneakrypt",
+  "version": "1.0.0",
+  "description": "A simple CLI for synchronously encrypting and decrypting text files modeled on the classic hacker film Sneakers, because there's no reason technical hacking can't look the way it does in the movies.",
+  "main": "sneakcrypt.js",
+  "dependencies": {
+    "pkg": "^5.4.0",
+    "prompt": "^1.2.0",
+    "triplesec": "^4.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "pkg sneakrypt.js"
+  },
+  "author": "Nick Briz <nickbriz@protonmail.com>",
+  "license": "GPL-3.0"
+}

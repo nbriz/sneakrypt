@@ -1,0 +1,6 @@
+node_modules
+package-lock.json
+build
+*.mov
+*.mp4
+sneakrypt.zip
