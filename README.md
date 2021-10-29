@@ -3,9 +3,9 @@ A simple CLI for synchronously encrypting and decrypting text files modeled on t
 
 ![sneakrypt](sneakrypt.gif)
 
-yes, this was just for fun
-yes, it actually works
-u can download binaries for Linux, MacOS and Windows
+yes, this was just for fun<br>
+yes, it actually works<br>
+u can [download binaries](https://github.com/nbriz/sneakrypt/releases/tag/1.0) for Linux, MacOS and Windows<br>
 or u can download the source code here
 ```
 git clone https://github.com/nbriz/sneakrypt.git; cd sneakrypt; npm install
