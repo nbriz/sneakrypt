@@ -11,7 +11,7 @@ or u can download the source code here
 git clone https://github.com/nbriz/sneakrypt.git; cd sneakrypt; npm install
 ```
 
-here's the hlpe file:
+here's the help file:
 ```
 Commands:
   e, encrypt       encrypt a message or text file
